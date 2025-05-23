@@ -1,6 +1,6 @@
 # CNN_butterfly_identification
 
-Scripts for training ResNet-152 on an image dataset of Austrian butterfly and moth species for a master thesis in the ULG data science of the University of Innsbruck. A link to the thesis will be added when it is published. 
+Scripts for training ResNet-152 on an image dataset of Austrian butterfly and moth species for a master thesis in the ULG data science of the University of Innsbruck. The thesis can be found [here](https://ulb-dok.uibk.ac.at/urn/urn:nbn:at:at-ubi:1-172379). 
 
 The scripts were run on the EuroHPC supercomputer LEONARDO, hosted by CINECA (Italy) and the LEONARDO consortium that was accessed through an EuroHPC Development Access call. 
 
